@@ -139,7 +139,7 @@ Browser → LocalStorage
 - **MIT License**
 
   
-##⭐ Support
+## ⭐ Support
 
 **If you like this project, give it a ⭐ on GitHub and use it daily.
 Consistency beats motivation.**
